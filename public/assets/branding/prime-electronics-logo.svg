@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Prime Electronics</title>
+  <desc id="desc">Deep navy and electric blue electronics retailer logo.</desc>
+  <rect width="1200" height="300" fill="none"/>
+  <g transform="translate(38 42)">
+    <rect x="0" y="0" width="216" height="216" rx="52" fill="#0B2239"/>
+    <path d="M108 34a74 74 0 1 0 63 35" fill="none" stroke="#28A8EA" stroke-width="20" stroke-linecap="round"/>
+    <path d="M108 16v78" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+    <path d="M87 105h55c21 0 38 17 38 38s-17 38-38 38H87z" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linejoin="round"/>
+    <path d="M137 118l-23 31h20l-17 30 43-43h-21l16-18z" fill="#1268E3"/>
+  </g>
+  <g transform="translate(292 82)">
+    <text x="0" y="72" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="800" letter-spacing="4" fill="#0B2239">PRIME</text>
+    <text x="4" y="139" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="13" fill="#1268E3">ELECTRONICS</text>
+  </g>
+</svg>

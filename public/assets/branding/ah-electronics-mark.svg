@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">A H Electronics mark</title>
+  <desc id="desc">A navy, white and electric blue AH monogram.</desc>
+  <rect x="10" y="10" width="160" height="160" rx="36" fill="#0B2239"/>
+  <path d="M36 91c0-35 23-63 55-63" fill="none" stroke="#28A8EA" stroke-width="9" stroke-linecap="round"/>
+  <path d="M36 105c0 28 19 51 45 58" fill="none" stroke="#1268E3" stroke-width="9" stroke-linecap="round"/>
+  <path d="M55 128 84 60l29 68M67 102h34" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M114 60v68M114 94h28M142 60v68" fill="none" stroke="#28A8EA" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="140" cy="38" r="6" fill="#FFFFFF"/>
+</svg>

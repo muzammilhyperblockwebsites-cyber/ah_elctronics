@@ -1,0 +1,164 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-display: "Manrope", system-ui, sans-serif;
+    --font-body: "Inter", system-ui, sans-serif;
+    --radius: 0.75rem;
+    /* Business-card colours */
+    --brand-deep: #2b2b66;
+    --brand-purple: #62648d;
+    --brand-red: #ae6965;
+    --brand-red-dark: #89393b;
+    --brand-white: #ffffff;
+    --brand-canvas: #f7f8fa;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html,
+  body {
+    @apply overflow-x-hidden;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold tracking-tight;
+  }
+}
+
+@layer components {
+  /* Container with responsive padding */
+  .section-container {
+    @apply mx-auto w-full max-w-[1540px] px-4 sm:px-6;
+  }
+
+  /* Section spacing */
+  .section-spacing {
+    @apply py-12 md:py-16 lg:py-20;
+  }
+
+  /* Product image container */
+  .product-image-container {
+    @apply relative aspect-square overflow-hidden rounded-lg bg-white;
+  }
+
+  .product-image-container img {
+    @apply h-full w-full object-contain p-2 transition-transform duration-300;
+  }
+
+  .product-image-container:hover img {
+    @apply scale-105;
+  }
+
+  /* Card hover effect */
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+  }
+
+  /* Price display */
+  .price-tag {
+    @apply text-lg font-bold text-navy;
+  }
+
+  .price-contact {
+    @apply text-sm font-medium text-muted-foreground italic;
+  }
+
+  /* WhatsApp button */
+  .btn-whatsapp {
+    @apply inline-flex items-center gap-2 rounded-lg bg-whatsapp px-4 py-2.5 text-sm font-semibold text-white transition-all hover:bg-whatsapp/90 hover:shadow-md;
+  }
+
+  /* Primary CTA button */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-white transition-all hover:bg-primary/90 hover:shadow-md;
+  }
+
+  /* Secondary/outline button */
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-white px-4 py-2.5 text-sm font-medium text-foreground transition-all hover:bg-muted hover:border-primary/30;
+  }
+
+  /* Badge */
+  .badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium;
+  }
+
+  /* Focus ring for accessibility */
+  .focus-ring {
+    @apply outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2;
+  }
+
+  /* Skeleton loader */
+  .skeleton {
+    @apply animate-pulse rounded-md bg-muted;
+  }
+
+  /* Line clamp utilities */
+  .line-clamp-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-border hover:bg-muted-foreground/30;
+}
+
+/* Hide scrollbar on mobile drawers and horizontal rails */
+.hide-scrollbar,
+.no-scrollbar,
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar,
+.no-scrollbar::-webkit-scrollbar,
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Prime Electronics mark</title>
+  <rect width="512" height="512" rx="118" fill="#0B2239"/>
+  <path d="M256 90a174 174 0 1 0 148 82" fill="none" stroke="#28A8EA" stroke-width="46" stroke-linecap="round"/>
+  <path d="M256 48v184" stroke="#FFFFFF" stroke-width="46" stroke-linecap="round"/>
+  <path d="M207 250h128c49 0 89 40 89 89s-40 89-89 89H207z" fill="none" stroke="#FFFFFF" stroke-width="38" stroke-linejoin="round"/>
+  <path d="M325 278l-55 72h47l-40 70 100-100h-49l37-42z" fill="#1268E3"/>
+</svg>

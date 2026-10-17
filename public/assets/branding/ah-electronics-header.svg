@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">A H Electronics</title>
+  <desc id="desc">A navy and electric blue AH monogram with the A H Electronics wordmark.</desc>
+  <g transform="translate(18 18)">
+    <rect width="144" height="144" rx="32" fill="#0B2239"/>
+    <path d="M24 78c0-31 21-56 49-56" fill="none" stroke="#28A8EA" stroke-width="8" stroke-linecap="round"/>
+    <path d="M24 91c0 25 17 45 40 51" fill="none" stroke="#1268E3" stroke-width="8" stroke-linecap="round"/>
+    <path d="M42 111 68 50l26 61M53 88h31" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 50v61M96 80h25M121 50v61" fill="none" stroke="#28A8EA" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="119" cy="30" r="5" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(190 29)">
+    <text x="0" y="63" fill="#0B2239" font-family="Manrope, Inter, Arial, sans-serif" font-size="63" font-weight="800" letter-spacing="3">A H</text>
+    <text x="2" y="114" fill="#17212B" font-family="Manrope, Inter, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="6">ELECTRONICS</text>
+    <rect x="2" y="128" width="430" height="4" rx="2" fill="#1268E3"/>
+  </g>
+</svg>

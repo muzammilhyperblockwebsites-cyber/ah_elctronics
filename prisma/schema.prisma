@@ -1,0 +1,133 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  email     String   @unique
+  password  String
+  name      String   @default("Admin")
+  role      String   @default("Super Admin")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Product {
+  id               String   @id @default(auto()) @map("_id") @db.ObjectId
+  slug             String   @unique
+  name             String
+  brand            String
+  model            String
+  category         String
+  subcategory      String   @default("")
+  series           String   @default("")
+  price            Float?
+  priceSource      String   @default("none")
+  stockStatus      String   @default("In Stock")
+  mainImage        String
+  gallery          String   @default("[]") // JSON string array of image URLs
+  specifications   String   @default("{}") // JSON string object of key-value specs
+  shortDescription String   @default("")
+  warranty         String   @default("")
+  availability     String   @default("In Stock")
+  featured         Boolean  @default(false)
+  specialOffer     Boolean  @default(false)
+  sourceUrl        String   @default("")
+  seoTitle         String   @default("")
+  seoDescription   String   @default("")
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model Category {
+  id             String   @id @default(auto()) @map("_id") @db.ObjectId
+  name           String   @unique
+  slug           String   @unique
+  description    String   @default("")
+  image          String   @default("")
+  icon           String   @default("Package")
+  subcategories  String   @default("[]") // JSON string array
+  order          Int      @default(0)
+  seoTitle       String   @default("")
+  seoDescription String   @default("")
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model Brand {
+  id             String   @id @default(auto()) @map("_id") @db.ObjectId
+  name           String   @unique
+  slug           String   @unique
+  description    String   @default("")
+  logo           String   @default("")
+  order          Int      @default(0)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model HeroSlide {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  title        String
+  subtitle     String   @default("")
+  description  String   @default("")
+  badge        String   @default("")
+  ctaText      String   @default("Order on WhatsApp")
+  ctaLink      String   @default("/products")
+  imageDesktop String
+  imageMobile  String   @default("")
+  order        Int      @default(0)
+  active       Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model PromoBanner {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  title        String
+  subtitle     String   @default("")
+  tag          String   @default("")
+  ctaText      String   @default("Order via WhatsApp")
+  ctaLink      String   @default("/products")
+  imageDesktop String
+  imageMobile  String   @default("")
+  order        Int      @default(0)
+  active       Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model SiteSetting {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  key       String   @unique
+  value     String
+  updatedAt DateTime @updatedAt
+}
+
+model Lead {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  refNumber    String   @unique
+  customerName String
+  phone        String
+  city         String   @default("")
+  productName  String
+  productModel String   @default("")
+  productPrice Float?
+  quantity     Int      @default(1)
+  productUrl   String   @default("")
+  productSlug  String   @default("")
+  productId    String?
+  message      String   @default("")
+  consent      Boolean  @default(true)
+  sourcePage   String   @default("")
+  status       String   @default("WhatsApp Opened")
+  notes        String   @default("[]") // JSON string array of { id, text, createdAt, author }
+  ipAddress    String   @default("")
+  userAgent    String   @default("")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
