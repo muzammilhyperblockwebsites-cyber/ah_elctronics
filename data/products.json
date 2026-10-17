@@ -69,8 +69,10 @@
     "series": "10000 BTU Series",
     "price": 96000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-split-ac-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-split-ac-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1241,8 +1243,10 @@
     "series": "",
     "price": 57000,
     "priceSource": "json",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1336,8 +1340,10 @@
     "series": "",
     "price": 80000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1395,8 +1401,10 @@
     "series": "",
     "price": 83000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1452,8 +1460,10 @@
     "series": "",
     "price": 89500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-double-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-double-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1514,8 +1524,10 @@
     "series": "",
     "price": 98000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-double-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-double-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1573,8 +1585,10 @@
     "series": "",
     "price": 103500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-chest-freezer-double-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-chest-freezer-double-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1706,8 +1720,10 @@
     "series": "",
     "price": 29600,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1727,8 +1743,10 @@
     "series": "",
     "price": 29600,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1748,8 +1766,10 @@
     "series": "",
     "price": 38500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1769,8 +1789,10 @@
     "series": "",
     "price": 38500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1790,8 +1812,10 @@
     "series": "",
     "price": 38500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1811,8 +1835,10 @@
     "series": "",
     "price": 38500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-square.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-square.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1832,8 +1858,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1853,8 +1881,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1874,8 +1904,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1895,8 +1927,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1916,8 +1950,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1937,8 +1973,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-glass-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-glass-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1958,8 +1996,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -1979,8 +2019,10 @@
     "series": "",
     "price": 47000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-steel-round.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-steel-round.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2000,8 +2042,10 @@
     "series": "",
     "price": 60500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-smart-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-smart-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2021,8 +2065,10 @@
     "series": "",
     "price": 60500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-smart-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-smart-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2042,8 +2088,10 @@
     "series": "",
     "price": 71000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-smart-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-smart-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2063,8 +2111,10 @@
     "series": "",
     "price": 71000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-gas-hob-smart-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-gas-hob-smart-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2084,8 +2134,10 @@
     "series": "",
     "price": 36000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-arc-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-arc-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2105,8 +2157,10 @@
     "series": "",
     "price": 39000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-arc-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-arc-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2126,8 +2180,10 @@
     "series": "",
     "price": 50000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2147,8 +2203,10 @@
     "series": "",
     "price": 39000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-arc-glass.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-arc-glass.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2168,8 +2226,10 @@
     "series": "",
     "price": 131500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2189,8 +2249,10 @@
     "series": "",
     "price": 55500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2210,8 +2272,10 @@
     "series": "",
     "price": 60500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2231,8 +2295,10 @@
     "series": "",
     "price": 65500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2252,8 +2318,10 @@
     "series": "",
     "price": 76000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-hood-tshape-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-hood-tshape-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2273,8 +2341,10 @@
     "series": "",
     "price": 63000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-microwave-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-microwave-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2294,8 +2364,10 @@
     "series": "",
     "price": 91000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-microwave-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-microwave-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2315,8 +2387,10 @@
     "series": "",
     "price": 128500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-oven-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-oven-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2336,8 +2410,10 @@
     "series": "",
     "price": 128500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-oven-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-oven-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2357,8 +2433,10 @@
     "series": "",
     "price": 116500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-oven-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-oven-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2378,8 +2456,10 @@
     "series": "",
     "price": 116500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-builtin-oven-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-builtin-oven-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2399,8 +2479,9 @@
     "series": "",
     "price": 90000,
     "priceSource": "json",
-    "mainImage": "/assets/system/product-image-placeholder.svg",
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
     "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
       "https://image.haier.com/pk/tvs/W020240228653789283441_1680.jpg",
       "https://image.haier.com/pk/tvs/W020250125629929889579_1200.jpg",
       "https://image.haier.com/pk/tvs/W020250122739168037157_1200.png",
@@ -2582,8 +2663,10 @@
     "series": "",
     "price": 165000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2652,8 +2735,10 @@
     "series": "",
     "price": 187000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2673,8 +2758,10 @@
     "series": "",
     "price": 225000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2740,8 +2827,10 @@
     "series": "",
     "price": 305000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2804,8 +2893,10 @@
     "series": "",
     "price": 480000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-qled-tv-bezel-less.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-qled-tv-bezel-less.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2825,8 +2916,10 @@
     "series": "",
     "price": 21500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-air-fryer-digital.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-air-fryer-digital.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -2846,8 +2939,10 @@
     "series": "",
     "price": 18500,
     "priceSource": "json",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-air-fryer-manual.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-air-fryer-manual.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4393,8 +4488,10 @@
     "series": "",
     "price": 360000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-sbs-refrigerator-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-sbs-refrigerator-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4626,8 +4723,10 @@
     "series": "",
     "price": 18000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-spinner-dryer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-spinner-dryer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4647,8 +4746,10 @@
     "series": "",
     "price": 33500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-twintub-washer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-twintub-washer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4668,8 +4769,10 @@
     "series": "",
     "price": 33000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-twintub-washer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-twintub-washer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4689,8 +4792,10 @@
     "series": "",
     "price": 34000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-twintub-washer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-twintub-washer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4710,8 +4815,10 @@
     "series": "",
     "price": 210000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-frontload-washer-silver.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-frontload-washer-silver.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4816,8 +4923,10 @@
     "series": "",
     "price": 70000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-topload-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-topload-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4837,8 +4946,10 @@
     "series": "",
     "price": 78000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-topload-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-topload-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4977,8 +5088,10 @@
     "series": "",
     "price": 27500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-singletub-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-singletub-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -4998,8 +5111,10 @@
     "series": "",
     "price": 27000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-singletub-washer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-singletub-washer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5019,8 +5134,10 @@
     "series": "",
     "price": 26500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-singletub-washer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-singletub-washer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5040,8 +5157,10 @@
     "series": "",
     "price": 85000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-topload-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-topload-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5061,8 +5180,10 @@
     "series": "",
     "price": 96000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-topload-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-topload-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5239,8 +5360,10 @@
     "series": "",
     "price": 57000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-topload-washer-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-topload-washer-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5260,8 +5383,10 @@
     "series": "",
     "price": 20000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-spinner-dryer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-spinner-dryer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5281,8 +5406,10 @@
     "series": "",
     "price": 19500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-spinner-dryer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-spinner-dryer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5302,8 +5429,10 @@
     "series": "",
     "price": 20500,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-spinner-dryer-white.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-spinner-dryer-white.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5323,8 +5452,10 @@
     "series": "",
     "price": 45000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-water-dispenser-black.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-water-dispenser-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5344,8 +5475,10 @@
     "series": "",
     "price": 45000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-water-dispenser-red.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-water-dispenser-red.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5365,8 +5498,10 @@
     "series": "",
     "price": 45000,
     "priceSource": "price-list",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/haier-water-dispenser-silver.jpg",
+    "gallery": [
+      "/assets/products/ai/haier-water-dispenser-silver.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5823,8 +5958,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-gas-hob-5burner.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-gas-hob-5burner.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -5982,8 +6119,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-blender-black.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-blender-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6578,8 +6717,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-chrome-silver.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-chrome-silver.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6599,8 +6740,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-metallic-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-metallic-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6620,8 +6763,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-chrome-silver.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-chrome-silver.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6641,8 +6786,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-chrome-silver.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-chrome-silver.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6662,8 +6809,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-metallic-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-metallic-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6775,8 +6924,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-metallic-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-metallic-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6819,8 +6970,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-hairline-gold.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-hairline-gold.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6840,8 +6993,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-avante-purple.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-avante-purple.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6861,8 +7016,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-avante-red.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-avante-red.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6905,8 +7062,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-hairline-gold.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-hairline-gold.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6926,8 +7085,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-metallic-grey.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-metallic-grey.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6947,8 +7108,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-avante-purple.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-avante-purple.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -6968,8 +7131,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-avante-red.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-avante-red.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -7035,8 +7200,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-fridge-avante-red.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-fridge-avante-red.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -11357,8 +11524,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-multidoor-honeycomb-black.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-multidoor-honeycomb-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -11378,8 +11547,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-multidoor-sapphire-black.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-multidoor-sapphire-black.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -12342,8 +12513,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-split-ac-mega-t3.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-split-ac-mega-t3.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -12386,8 +12559,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-split-ac-sprinter.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-split-ac-sprinter.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
@@ -13442,8 +13617,10 @@
     "series": "",
     "price": null,
     "priceSource": "none",
-    "mainImage": "",
-    "gallery": [],
+    "mainImage": "/assets/products/ai/dawlance-freezer-twin-door.jpg",
+    "gallery": [
+      "/assets/products/ai/dawlance-freezer-twin-door.jpg"
+    ],
     "specifications": {},
     "shortDescription": "",
     "warranty": "",
