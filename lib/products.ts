@@ -382,7 +382,12 @@ const PROXIED_MANUFACTURER_HOSTS = new Set([
  * producing an optimizer 404 on the server.
  */
 export function isDirectImage(src: string): boolean {
-  return src.endsWith(".svg") || /^https?:\/\//i.test(src) || src.startsWith("/api/image");
+  return (
+    src.endsWith(".svg") ||
+    src.startsWith("/assets/products/ai/") ||
+    /^https?:\/\//i.test(src) ||
+    src.startsWith("/api/image")
+  );
 }
 
 export function getDisplayImageUrl(src: string): string {

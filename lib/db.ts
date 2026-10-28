@@ -1,6 +1,14 @@
 import { prisma } from "./prisma";
 import { Product } from "./products";
 import { siteConfig } from "./siteConfig";
+import productsCatalogJson from "@/data/products.json";
+
+const AI_IMAGE_OVERRIDE_BY_SLUG = new Map<string, string>();
+for (const item of productsCatalogJson as Array<{ slug?: string; mainImage?: string }>) {
+  if (item.slug && item.mainImage && item.mainImage.startsWith("/assets/products/ai/")) {
+    AI_IMAGE_OVERRIDE_BY_SLUG.set(item.slug, item.mainImage);
+  }
+}
 
 function transformProduct(p: any): Product {
   let gallery: string[] = [];
@@ -21,6 +29,24 @@ function transformProduct(p: any): Product {
     specifications = {};
   }
 
+  const aiOverride = p.slug ? AI_IMAGE_OVERRIDE_BY_SLUG.get(p.slug) : undefined;
+  const rawMain = p.mainImage || "";
+  const needsAiOverride =
+    Boolean(aiOverride) &&
+    (!rawMain ||
+      rawMain.includes("placeholder") ||
+      rawMain.includes("/medias/") ||
+      rawMain.includes("cdn.shopify.com") ||
+      rawMain.startsWith("/assets/products/ai/"));
+
+  const resolvedMainImage = needsAiOverride
+    ? aiOverride!
+    : rawMain || "/assets/system/product-image-placeholder.svg";
+
+  if (needsAiOverride && aiOverride) {
+    gallery = [aiOverride];
+  }
+
   return {
     id: p.id,
     slug: p.slug,
@@ -32,7 +58,7 @@ function transformProduct(p: any): Product {
     series: p.series || "",
     price: p.price !== null && p.price > 0 ? p.price : null,
     priceSource: (p.priceSource as any) || (p.price ? "json" : "none"),
-    mainImage: p.mainImage || "/assets/system/product-image-placeholder.svg",
+    mainImage: resolvedMainImage,
     gallery,
     specifications,
     shortDescription: p.shortDescription || "",
